@@ -198,7 +198,7 @@ class IdGenerator extends Expression {
   constructor(expression) {
     super(expression);
 
-    this.setCharBoundsFromChars("A", "D");
+    this.setCharBoundsFromChars("A", "Z");
   }
 
   getFinalExpression() {
