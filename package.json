@@ -1,0 +1,32 @@
+{
+  "name": "custom-random-id",
+  "version": "1.0.0",
+  "description": "A highly customizable JavaScript library that generates random IDs based on the required format. It uses the {{id_specification}} format to generate the kind of ID with varying length number or string or alpha-numeric string",
+  "main": "idGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adithyakv100/custom-random-id.git"
+  },
+  "keywords": [
+    "id",
+    "random-id",
+    "uuid",
+    "random number",
+    "random string",
+    "custom id",
+    "custom-id",
+    "number generator"
+  ],
+  "author": "Adithya K V",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adithyakv100/custom-random-id/issues"
+  },
+  "homepage": "https://github.com/adithyakv100/custom-random-id#readme",
+  "dependencies": {
+    "uuid": "^8.0.0"
+  }
+}
