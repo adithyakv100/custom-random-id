@@ -2,7 +2,7 @@
 
 A highly customizable JavaScript library that generates random IDs based on the required format. It uses the `{{id_specification}}` format to generate the kind of ID with varying length number or string or alpha-numeric string
 
-> Solves the problem of writing custom algorithms of generating random IDs of numbers or strings or alpha-numeric string. You can even generate a random phone number like `+1-541-754-3010` or random anything in your desired format!
+> Solves the problem of writing custom algorithms for generating random IDs of numbers or strings or alpha-numeric string. You can even generate a random phone number like `+1-541-754-3010` or random anything in your desired format!
 
 ## Installation
 
